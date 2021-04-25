@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bec547de.chunk.css",
+    "main.js": "/static/js/main.c2cee1c5.chunk.js",
+    "main.js.map": "/static/js/main.c2cee1c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8e09ce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8e09ce0.js.map",
+    "static/js/2.6cf2d19f.chunk.js": "/static/js/2.6cf2d19f.chunk.js",
+    "static/js/2.6cf2d19f.chunk.js.map": "/static/js/2.6cf2d19f.chunk.js.map",
+    "static/js/3.8827dc67.chunk.js": "/static/js/3.8827dc67.chunk.js",
+    "static/js/3.8827dc67.chunk.js.map": "/static/js/3.8827dc67.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bec547de.chunk.css.map": "/static/css/main.bec547de.chunk.css.map",
+    "static/js/2.6cf2d19f.chunk.js.LICENSE.txt": "/static/js/2.6cf2d19f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.a5f5bbd8.gif",
+    "static/media/bestway-nav.627c035f.PNG": "/static/media/bestway-nav.627c035f.PNG",
+    "static/media/bestway-produkte.269caeaf.PNG": "/static/media/bestway-produkte.269caeaf.PNG",
+    "static/media/bestway-standort.240a66f0.PNG": "/static/media/bestway-standort.240a66f0.PNG",
+    "static/media/bestway.6b152dc9.png": "/static/media/bestway.6b152dc9.png",
+    "static/media/büro.26aed1b9.gif": "/static/media/büro.26aed1b9.gif",
+    "static/media/logo_dark.cbe9ba99.svg": "/static/media/logo_dark.cbe9ba99.svg",
+    "static/media/person-groß.f69ca16a.png": "/static/media/person-groß.f69ca16a.png",
+    "static/media/strich_links.90a3a931.svg": "/static/media/strich_links.90a3a931.svg",
+    "static/media/strich_rechts.6d23acd9.svg": "/static/media/strich_rechts.6d23acd9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e09ce0.js",
+    "static/js/2.6cf2d19f.chunk.js",
+    "static/css/main.bec547de.chunk.css",
+    "static/js/main.c2cee1c5.chunk.js"
+  ]
+}
